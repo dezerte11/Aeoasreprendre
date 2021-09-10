@@ -72,9 +72,9 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"anthony-lamboy-173.jpg",
-	"72f96074e21bb8cca85849b566cfdd4e.jpg",
-	"ypnkh84k4i341.png"
+	"loading-screen-1.jpg",
+	"loading-screen-2.jpg",
+	"loading-screen-3.jpg"
 ];
 
 // (Image-background only)
